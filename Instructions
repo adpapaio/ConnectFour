@@ -1,0 +1,7 @@
+Instructions: 
+ For this assignment, you will implement a GUI and gameplay for a very popular two
+player game, Connect Four.  Each of the players has either black or red colored discs that he/she 
+will drop down into7 column by 6 row grid.  The initial discs will go to the bottom.  A disc may 
+only be placed either onto the bottom or on top of another disc (of either color.)  The game 
+continues until one of the players gets four in a row, or until the board fills up and there is no 
+winner. 
